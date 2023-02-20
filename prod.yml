@@ -1,0 +1,3 @@
+service:
+  greeting: this is prod
+  id: 1
