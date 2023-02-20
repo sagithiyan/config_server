@@ -14,4 +14,4 @@
 #          uri: https://github.com/sagithiyan/spring_config_cloud.git
 #          search-paths:
 service:
-  title: 'Global service'
+  title: 'Global service1'
